@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\bin\Debug\ИИ_ЛР8.exe.config
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\bin\Debug\ИИ_ЛР8.exe
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\bin\Debug\ИИ_ЛР8.pdb
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\obj\Debug\ИИ_ЛР8.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\obj\Debug\ИИ_ЛР8.Form1.resources
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\obj\Debug\ИИ_ЛР8.Properties.Resources.resources
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\obj\Debug\ИИ_ЛР8.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\obj\Debug\ИИ_ЛР8.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\obj\Debug\ИИ_ЛР8.exe
+C:\Users\ACER\source\repos\ИИ_ЛР8\ИИ_ЛР8\obj\Debug\ИИ_ЛР8.pdb
